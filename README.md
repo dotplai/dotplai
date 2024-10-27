@@ -1,16 +1,52 @@
-## Hi there 👋
+![Visits](https://img.shields.io/badge/Visits-14305-blue)
 
-<!--
-**dotplai/dotplai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&size=25&pause=1000&color=85F7DB&center=true&vCenter=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%82%F0%9F%91%8B;I'm+NotPlai;English%2C+Japanese+%26+Thai+%5E%5E" alt="Typing SVG" />
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">A student from Thailand</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+  🍰 I'm currently working on <b>FlanDCB</b> (Discord Bot)<br/>
+  🪴 I'm currently learning <b>Ruby, React & Java</b><br/>
+  ⚡  🌩️<br/>
+  
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:notplai@ilab.net">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">
+  🛠️ Language Framework Tools 🧩
+</h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,docker,nodejs,py,lua,go" /><br/>
+    <img src="https://skillicons.dev/icons?i=babel,discordjs,django,gcp,pytorch,ts,nuxtjs" />
+  </a>
+</div>
+
+<hr/>
+<div align="center">
+  <h2> My Contributions </h2>
+  <br/>
+  
+</div>

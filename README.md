@@ -43,10 +43,3 @@
     <img src="https://skillicons.dev/icons?i=babel,discordjs,django,gcp,pytorch,ts,nuxtjs" />
   </a>
 </div>
-
-<hr/>
-<div align="center">
-  <h2> My Contributions </h2>
-  <br/>
-  
-</div>

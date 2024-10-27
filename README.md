@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  🍰 I'm currently working on <b>FlanDCB</b> (Discord Bot)<br/>
+  🔭 I'm currently working on <b>FlanDCB</b> (Discord Bot)<br/>
   🪴 I'm currently learning <b>Ruby, React & Java</b><br/>
   ⚡  🌩️<br/>
   
@@ -20,13 +20,13 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:notplai@ilab.net">
+  <a href="mailto:notplai@ilab.net" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   </a>
-  <a href="#">
+  <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"
   </a>
-  <a href="#">
+  <a href="#" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"
   </a>
 </div>
@@ -39,7 +39,9 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,docker,nodejs,py,lua,go" /><br/>
-    <img src="https://skillicons.dev/icons?i=babel,discordjs,django,gcp,pytorch,ts,nuxtjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,docker,nodejs,py,lua,go,java,kotlin" /><br/>
+    <img src="https://skillicons.dev/icons?i=babel,discordjs,django,gcp,pytorch,anaconda,ts,nuxtjs,vue,maven" />
   </a>
 </div>
+<br/>
+<hr/>

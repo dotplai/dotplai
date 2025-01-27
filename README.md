@@ -11,9 +11,9 @@
 <br/>
 
 <div align="center">
-  🔭 I'm currently working on <b>FlanDCB</b> (Discord Bot)<br/>
-  🪴 I'm currently learning <b>Ruby, React & Java</b><br/>
-  ⚡  🌩️<br/>
+  🔭 I'm currently working on <a href="https://github.com/dotplai/FlexiDNS"><b>FlexiDNS</b></a> ✨<br/>
+  🪴 I'm currently learning <b>Assembly-8086 & Java</b> 🌳<br/>
+  ⚡ 🎀 🌩️<br/>
   
 </div>
 

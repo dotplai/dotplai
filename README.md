@@ -20,7 +20,7 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:notplai@ilab.net" style="text-decoration: none;">
+  <a href="mailto:me@notplai.net" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   </a>
   <a href="#" style="text-decoration: none;">
